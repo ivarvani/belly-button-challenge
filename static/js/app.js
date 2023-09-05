@@ -121,7 +121,6 @@ function optionChanged(item){
   demo_info(item)
   bar_chart(item)
   bubble_chart(item)
-  Gauge_chart(item)
 }
 
 initialize();
