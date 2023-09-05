@@ -6,13 +6,13 @@ Build an interactive dashboard to explore the [Belly Button Biodiversity dataset
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.<br/>
 
-[**Click Here**]() to find out how the web page looks like. <br/>
+[**Click Here**]( https://ivarvani.github.io/belly-button-challenge/) to explore the web page dashboard. <br/>
 
  <img src="https://github.com/ivarvani/belly-button-challenge/blob/main/output_data/dashboard.png"><br/>
 
-## Step by Step Approch
+## Step by Step Approach
 
-### Step 1 Use the D3 library to read in `samples.json` from the URL
+### Step 1 Used the D3 library to read in `samples.json` from the URL
 * URL: `https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json`.<br/>
 
   ``` python 
@@ -20,10 +20,10 @@ The dataset reveals that a small handful of microbial species (also called opera
       console.log(data);
   ```
 
-### Step 2 Create a horizontal bar chart with a dropdown menu
+### Step 2 Created a horizontal bar chart with a dropdown menu
   * Displayed the top 10 OTUs found in that individual.<br/>
 
-### Step 3 Create a bubble chart that displays each sample
+### Step 3 Created a bubble chart that displays each sample
 
   * Used `otu_ids` for the x values.<br/>
 
