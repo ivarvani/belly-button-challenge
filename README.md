@@ -35,7 +35,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
   * Used `otu_labels` for the text values.<br/>
 
-### Step 4 Display the individual's demographic information
+### Step 4 Displayed the individual's demographic information
 Displayed each key-value pair from the metadata JSON object  on the page.<br/>
 
 ## Output Files
